@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test file now
+=======
+test
+>>>>>>> 596149b8c8cee77497bdcda589fe606ad740cf88
